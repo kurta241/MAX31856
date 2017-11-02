@@ -1,4 +1,4 @@
-# MAX38156
+# MAX31856
 pycom LoPy library and example code for Adafruit MAX31856 Universal Thermocouple Amplifier
 
 ## Wiring
